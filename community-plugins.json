@@ -9,11 +9,7 @@
     {
         "id": "hotkeysplus-obsidian",
         "name": "Hotkeys++",
-        "author": "Argentina Ortega Sainz",
-        "description": "Additional hotkeys to do common things in Obsidian.",
-        "repo": "argenos/hotkeysplus-obsidian"
-    },
-    {
+        "author": "Argentina Ortega Sainz",d
         "id": "obsidian-git",
         "name": "Obsidian Git",
         "author": "Vinzent, (Denis Olehov)",
